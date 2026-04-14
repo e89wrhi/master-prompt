@@ -17,39 +17,39 @@ Everything is organized into highly specialized domains. Dive in below.
 
 ## 🧭 The Master Index
 
-### 💻 [Coding Engineering](./coding/)
+### 💻 [Coding Engineering](./prompts/coding/)
 Accelerate your software development lifecycle, from system design to debugging.
-*   [🔌 API Design](./coding/api/) • [🐞 Debugging](./coding/debugging/) • [♾️ DevOps](./coding/devops/)
-*   [📝 Documentation](./coding/documentation/) • [⚙️ Generation](./coding/generation/) • [🚀 Optimization](./coding/optimization/) • [📐 System Design](./coding/system%20design/)
+*   [🔌 API Design](./prompts/coding/api/) • [🐞 Debugging](./prompts/coding/debugging/) • [♾️ DevOps](./prompts/coding/devops/)
+*   [📝 Documentation](./prompts/coding/documentation/) • [⚙️ Generation](./prompts/coding/generation/) • [🚀 Optimization](./prompts/coding/optimization/) • [📐 System Design](./prompts/coding/system%20design/)
 
-### 🎨 [Creative Arts](./creative/)
+### 🎨 [Creative Arts](./prompts/creative/)
 Ideate, draft, and refine creative works across prose, music, and screen.
-*   [🖼️ Visual Art](./creative/art/) • [🧠 Brainstorming](./creative/brainstorming/) • [🎵 Music](./creative/music/)
-*   [📜 Poetry](./creative/poetry/) • [🎬 Scriptwriting](./creative/scriptwriting/) • [📖 Storytelling](./creative/storytelling/)
+*   [🖼️ Visual Art](./prompts/creative/art/) • [🧠 Brainstorming](./prompts/creative/brainstorming/) • [🎵 Music](./creative/music/)
+*   [📜 Poetry](./prompts/creative/poetry/) • [🎬 Scriptwriting](./prompts/creative/scriptwriting/) • [📖 Storytelling](./prompts/creative/storytelling/)
 
-### 🎓 [Education & Academia](./education/)
+### 🎓 [Education & Academia](./prompts/education/)
 Frameworks for learning, teaching, research, and complex topic synthesis.
-*   [📅 Lesson Plans](./education/plans/) • [🧪 Research](./education/research/) • [📖 Study Aids](./education/study/)
-*   [📝 Summarization](./education/summarization/) • [👨‍🏫 Tutoring](./education/tutoring/)
+*   [📅 Lesson Plans](./prompts/education/plans/) • [🧪 Research](./prompts/education/research/) • [📖 Study Aids](./prompts/education/study/)
+*   [📝 Summarization](./prompts/education/summarization/) • [👨‍🏫 Tutoring](./prompts/education/tutoring/)
 
-### 🖼️ [Image Generation](./image/)
+### 🖼️ [Image Generation](./prompts/image/)
 Precise visual direction for Midjourney, DALL-E, Stable Diffusion, and more.
-*   [🎨 Art Styles](./image/art/) • [📢 Marketing Visuals](./image/marketing/) • [📦 Product Mockups](./image/product/)
-*   [📱 Social Content](./image/social/) • [🖥️ UI Design](./image/ui/)
+*   [🎨 Art Styles](./prompts/image/art/) • [📢 Marketing Visuals](./prompts/image/marketing/) • [📦 Product Mockups](./prompts/image/product/)
+*   [📱 Social Content](./prompts/image/social/) • [🖥️ UI Design](./prompts/image/ui/)
 
-### 📢 [Marketing & Branding](./marketing/)
+### 📢 [Marketing & Branding](./prompts/marketing/)
 Engineered direct response copy, analytics interpretation, and strategic positioning.
-*   [🎯 Ads & Campaigns](./marketing/ad%20&%20campaigns/) • [📊 Analytics](./marketing/analytics/) • [🏷️ Branding](./marketing/branding/)
-*   [✍️ Copywriting](./marketing/copywriting/) • [📧 Email](./marketing/email%20marketing/) • [🔍 SEO](./marketing/seo/) • [📱 Social](./marketing/social/)
+*   [🎯 Ads & Campaigns](./prompts/marketing/ad%20&%20campaigns/) • [📊 Analytics](./prompts/marketing/analytics/) • [🏷️ Branding](./prompts/marketing/branding/)
+*   [✍️ Copywriting](./prompts/marketing/copywriting/) • [📧 Email](./prompts/marketing/email%20marketing/) • [🔍 SEO](./prompts/marketing/seo/) • [📱 Social](./prompts/marketing/social/)
 
-### ⚡ [Productivity & Operations](./productivity/)
+### ⚡ [Productivity & Operations](./prompts/productivity/)
 Workflow optimization, workflow automation, and operational efficiency tools.
-*   [📊 Analysis](./productivity/analysis/) • [💼 Consulting](./productivity/consulting/) • [🤝 Meetings](./productivity/meeting/)
-*   [🗺️ Strategy](./productivity/strategy/) • [⏳ Time Mgmt](./productivity/time/) • [⚙️ Workflow](./productivity/workflow/)
+*   [📊 Analysis](./prompts/productivity/analysis/) • [💼 Consulting](./prompts/productivity/consulting/) • [🤝 Meetings](./prompts/productivity/meeting/)
+*   [🗺️ Strategy](./prompts/productivity/strategy/) • [⏳ Time Mgmt](./prompts/productivity/time/) • [⚙️ Workflow](./prompts/productivity/workflow/)
 
-### 🎬 [Video Production](./video/)
+### 🎬 [Video Production](./prompts/video/)
 Comprehensive video frameworks covering pre-production to post.
-*   [✂️ Editing](./video/editing/) • [✨ Motion](./video/motion/) • [📜 Screenplays](./video/script/) • [🎨 Storyboards](./video/storyboard/)
+*   [✂️ Editing](./prompts/video/editing/) • [✨ Motion](./prompts/video/motion/) • [📜 Screenplays](./prompts/video/script/) • [🎨 Storyboards](./prompts/video/storyboard/)
 
 ---
 
