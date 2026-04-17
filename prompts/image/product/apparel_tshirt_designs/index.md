@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/product/apparel_tshirt_designs.png"
+---
+
 # Template: High-Concept Apparel & T-Shirt Design
 
 Use this template to generate print-ready or concept-ready graphics for apparel. It is designed to specify the exact [ARTISTIC_STYLE], [INK_TEXTURE], and [PLACEMENT] required to create designs that look intentional and professionally branded rather than like generic stock art.

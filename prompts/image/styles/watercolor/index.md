@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/watercolor.png"
+---
+
 # Style: Fluid & Translucent Watercolor
 
 ![Watercolor](file:///d:/dev/_projects/prompt-library/assets/images/watercolor.png)

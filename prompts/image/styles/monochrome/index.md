@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/monochrome.png"
+---
+
 # Style: Dramatic Monochrome
 
 ![Monochrome](file:///d:/dev/_projects/prompt-library/assets/images/monochrome.png)

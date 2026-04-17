@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/3d_render.png"
+---
+
 # Style: High-Fidelity 3D Render
 
 ![3D Render](file:///d:/dev/_projects/prompt-library/assets/images/3d_render.png)

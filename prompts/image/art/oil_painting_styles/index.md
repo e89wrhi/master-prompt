@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/art/oil_painting_styles.png"
+---
+
 # Template: Master-Level Oil Painting Styles
 
 Use this template to generate digital art that captures the physical essence of historical oil paintings. It is designed to move beyond "oil painting effect" by specifying the exact [BRUSHWORK_STYLE], [CANVAS_TEXTURE], [PIGMENT_SATURATION], and [LIGHTING_ERA] (e.g., Caravaggio's dark shadows vs. Monet's dappled light).

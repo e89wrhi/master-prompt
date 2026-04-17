@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/oil_painting.png"
+---
+
 # Style: Master-Level Oil Painting
 
 ![Oil Painting](file:///d:/dev/_projects/prompt-library/assets/images/oil_painting.png)

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/anime.png"
+---
+
 # Style: Vibrant Anime & Manga
 
 ![Anime](file:///d:/dev/_projects/prompt-library/assets/images/anime.png)

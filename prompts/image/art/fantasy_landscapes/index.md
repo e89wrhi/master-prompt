@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/art/fantasy_landscapes.png"
+---
+
 # Template: Divine Fantasy Landscape Design
 
 Use this template to design world-class fantasy landscapes that feel grand, mystical, and grounded in unique lore. It is designed to move beyond "mountains and forests" by incorporating impossible geometry, magical lighting (e.g., bioluminescence, stardust), and epic architectural styles that tell a story of the civilizations that live there.

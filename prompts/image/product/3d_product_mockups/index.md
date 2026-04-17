@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/product/3d_product_mockups.png"
+---
+
 # Template: Professional 3D Product Mockups
 
 Use this template to generate ultra-realistic 3D renders of products for pitch decks, websites, or social media. It is designed to specify the exact [MATERIAL_PROPERTIES], [STUDIO_LIGHTING] setup, and [MINIMALIST_STAGING] required to make any product look like a flagship launch.

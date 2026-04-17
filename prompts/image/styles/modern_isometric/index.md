@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/modern_isometric.png"
+---
+
 # Style: Modern Isometric 3D
 
 ![Modern Isometric](file:///d:/dev/_projects/prompt-library/assets/images/modern_isometric.png)

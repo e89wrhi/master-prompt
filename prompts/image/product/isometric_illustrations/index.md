@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/product/isometric_illustrations.png"
+---
+
 # Template: Clean Isometric & "Bento Box" Illustrations
 
 Use this template to generate precise, clean, and visually satisfying isometric illustrations. It is designed to visualize complex systems—like cities, code infrastructures, or office layouts—using a perfect 45-degree angle, [CLEAN_GEOMETRIC_EDGES], and a [MINIMALIST_PALETTE].

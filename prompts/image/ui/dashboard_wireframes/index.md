@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/ui/dashboard.png"
+---
+
 # Template: Strategic Dashboard Wireframes
 
 Use this template to generate clean, high-concept wireframes for data-heavy applications. It is designed to visualize [LAYOUT_STRUCTURES]—such as sidebars, top navigation, and complex information grids—utilizing a [LOW-FIDELITY_GRAYSCALE] or [BLUEPRINT_STYLE] to ensure the focus remains on user experience (UX) and data hierarchy rather than aesthetic colors.

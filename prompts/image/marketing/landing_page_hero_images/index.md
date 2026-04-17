@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/marketing/landing_page_hero_images.png"
+---
+
 # Template: High-Conversion Landing Page Hero Images
 
 Use this template to generate the primary "Hero" visual for websites. It is designed to visualize the "Post-Benefit World" for your users, utilizing high-contrast lighting, clean compositions, and deliberate negative space to ensure that your Headline and Call-to-Action (CTA) are the focus.

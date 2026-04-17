@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/social/profile_picture_avatars.png"
+---
+
 # Template: Professional & Stylized Profile Picture Avatars
 
 Use this template to generate a high-impact "Face of the Brand" avatar. It is designed to maximize visibility in small circle frames, utilizing [SHOULDER-UP_FRAMING], [HIGH-CONTRAST_BACKGROUNDS], and [CLEAN_FACIAL_LIGHTING] to ensure you stand out in comment sections and search results.

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/sketch.png"
+---
+
 # Style: Hand-Drawn Pencil Sketch
 
 ![Sketch](file:///d:/dev/_projects/prompt-library/assets/images/sketch.png)

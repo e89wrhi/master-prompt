@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/marketing/youtube_thumbnail.png"
+---
+
 # Template: Viral YouTube Thumbnail Visuals
 
 Use this template to generate high-click-through-rate (CTR) thumbnail backgrounds. It is designed to utilize the "Shock and Awe" principles of YouTube—high saturation, clear facial expressions, dramatic lighting, and specific areas for high-contrast text to ensure your video stands out in a crowded feed.

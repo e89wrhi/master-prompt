@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/pastel_dreamcore.png"
+---
+
 # Style: Ethereal Pastel Dreamcore
 
 ![Pastel Dreamcore](file:///d:/dev/_projects/prompt-library/assets/images/pastel_dreamcore.png)

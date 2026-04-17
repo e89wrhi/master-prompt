@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/ui/web_design.png"
+---
+
 # Template: High-Fidelity Web Design Mockups
 
 Use this template to generate modern, trending website layouts for portfolios, client pitches, or development inspiration. It is designed to navigate specific [UI_TRENDS]—such as Bento grids, Glassmorphism, or Dark Mode—utilizing [TYPOGRAPHICAL_HIERARCHY] and [CLEAN_INTERACTION_MODELS] to create professional-grade mockups.

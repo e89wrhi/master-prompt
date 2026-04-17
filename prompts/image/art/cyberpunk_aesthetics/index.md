@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/art/cyberpunk_aesthetics.png"
+---
+
 # Template: High-Fidelity Cyberpunk Aesthetics
 
 Use this template to generate gritty, neon-soaked, and technologically dense cyberpunk imagery. It is designed to move beyond "neon lights" by incorporating the core philosophy of "High Tech, Low Life"—utilizing volumetric fog, rain-slicked textures, intricate cybernetic details, and a distinct noir atmosphere.

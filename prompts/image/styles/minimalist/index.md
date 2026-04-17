@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/minimalist.png"
+---
+
 # Style: Modern Minimalist Design
 
 ![Minimalist](file:///d:/dev/_projects/prompt-library/assets/images/minimalist.png)

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/product/packaging_design.png"
+---
+
 # Template: Professional Packaging & Label Design
 
 Use this template to generate high-fidelity concepts for product packaging. It is designed to specify the [STRUCTURE] of the package, the [TYPOGRAPHICAL_LAYOUT], and the [TACTILE_FINISHES] (e.g., gold foil, spot UV, matte cardboard) required to create a "luxury unboxing" experience or a standout retail shelf presence.

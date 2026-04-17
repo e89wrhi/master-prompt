@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/social/twitch_emotes.png"
+---
+
 # Template: High-Visibility Twitch & Discord Emotes
 
 Use this template to generate small-scale, high-expression emotes for streaming platforms. It is designed to overcome the "Tiny Resolution" challenge by utilizing [EXAGGERATED_MESA_EXPRESSIONS], [HEAVY_BLACK_OUTLINES], and [FLAT_VIBRANT_COLORS] to ensure your emotes are readable even at 28x28 pixels in a fast-moving chat.

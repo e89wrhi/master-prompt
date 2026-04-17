@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/art/abstract_concepts.png"
+---
+
 # Template: Evocative Abstract Art Prompts
 
 Use this template to generate deep, philosophical, and visually striking abstract art prompts. It is designed to move beyond "random colors" by utilizing visual metaphors, complex textures, and a master-level understanding of lighting and composition to translate complex emotions or concepts into a digital image.

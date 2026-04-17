@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/ui/app_icon.png"
+---
+
 # Template: Professional App Icon Generation
 
 Use this template to generate a high-impact, recognizable icon for mobile or desktop applications. It is designed to navigate the "One Metaphor" rule—distilling your app's core function into a single, bold visual symbol utilizing [VIBRANT_GRADIENTS], [TACTILE_SHADOWS], and [ICONOGRAPHIC_SIMPLICITY].

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/ui/gameui.png"
+---
+
 # Template: High-Detail Game UI Assets
 
 Use this template to generate theme-consistent HUD (Heads-Up Display) elements, menus, and inventory assets. It is designed to specify the [TACTILE_MATERIALS] (e.g., weathered stone, sci-fi metal, magical crystal), the [VARYING_UI_STATES] (e.g., active, hover, disabled), and the [COHESIVE_COLOR_SCHEMA] required to integrate into a specific game world.

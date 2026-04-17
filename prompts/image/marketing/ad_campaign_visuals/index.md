@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/marketing/ad_campaign_visuals.png"
+---
+
 # Template: Professional Ad Campaign Visuals
 
 Use this template to generate high-impact commercial imagery for advertising campaigns. It is designed to balance aesthetic beauty with strategic product placement, utilizing the "Emotional Anchor" technique to connect your product with a specific lifestyle or outcome.

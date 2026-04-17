@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/cyberpink.png"
+---
+
 # Style: Neon-Soaked Cyberpunk (Cyberpink)
 
 ![Cyberpink](file:///d:/dev/_projects/prompt-library/assets/images/cyberpink.png)

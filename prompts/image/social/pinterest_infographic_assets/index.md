@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/social/pinterest_infographic_assets.png"
+---
+
 # Template: Modern Pinterest Infographic Assets
 
 Use this template to generate high-fidelity 3D and 2D assets for Pinterest infographics. It is designed to create [VERITCAL_ASPECT_RATIO] visuals that work within a "Long Scroll" logic—utilizing bold icons, clean 3D objects, and high-contrast sections to convey information at a glance in the Pinterest Feed.

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/social/instagram_carousel_backgrounds.png"
+---
+
 # Template: High-Engagement Instagram Carousel Backgrounds
 
 Use this template to generate a cohesive set of backgrounds for Instagram carousels. It is designed to ensure a consistent [COLOR_STORY] and [TEXTUREAL_FLOW] across all slides, providing clear areas for text overlay while making the "Swipe" experience feel like a single, continuous journey.

@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/marketing/email_newsletter_headers.png"
+---
+
 # Template: Engaging Email Newsletter Headers
 
 Use this template to generate wide-format, high-visibility header images for newsletters. It is designed to create a "Visual Hook" that sets the mood for the rest of the email, utilizing negative space strategically to allow you to overlay your logo or title without creating a cluttered or unreadable design.

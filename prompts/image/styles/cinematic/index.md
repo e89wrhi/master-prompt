@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/cinematic.png"
+---
+
 # Style: Epic Cinematic Photography
 
 ![Cinematic](file:///d:/dev/_projects/prompt-library/assets/images/cinematic.png)

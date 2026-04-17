@@ -1,3 +1,7 @@
+---
+thumbnail: "/assets/images/styles/analog_film.png"
+---
+
 # Style: Nostalgic Analog Film
 
 ![Analog Film](file:///d:/dev/_projects/prompt-library/assets/images/analog_film.png)
